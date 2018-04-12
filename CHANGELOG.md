@@ -1,3 +1,7 @@
+## 0.5.6+1
+
+- Updated SDK version to 2.0.0-dev.17.0
+
 ## 0.5.6
 
 - Added `isRuntimeTypeUsed`, `isIsolateInUse`, `isFunctionApplyUsed` and `isMirrorsUsed` to
